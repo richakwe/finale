@@ -8,8 +8,7 @@ fetch(apiURL)
     document.getElementById('temp').innerText = jsObject.main.temp_max;
     document.getElementById('hum').innerText = jsObject.main.humidity;
   });
-
-
+  
 //array for forecast days
 let date = new Date();
 let dayNum = date.getDay();
