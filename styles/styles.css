@@ -1068,6 +1068,12 @@ footer p:last-child {
   margin-right: 1rem;
   margin-bottom: 0;
 }
+.contact-us form input, .contact-us form textarea, .contact-us form select, .contact-us form fieldset {
+  padding: .5rem;
+  border: 1px solid #24D000;
+  border-radius: .5rem;
+  margin-bottom: 1rem;
+}
 
 /******************* Contact *******************/
 .wireframes {
