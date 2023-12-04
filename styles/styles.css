@@ -640,8 +640,8 @@ nav {
 
 .weather h2 {
   margin-bottom: 0;
-  -webkit-text-decoration: underline #24D000;
-          text-decoration: underline #24D000;
+  -webkit-text-decoration: underline #ff50c5;
+          text-decoration: underline #ff50c5;
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
 }
 
@@ -697,7 +697,7 @@ nav {
 }
 
 .weather table th {
-  background-color: #24D000;
+  background-color: #ff50c5;
   font-weight: 400;
   font-size: .9rem;
   padding: .4rem;
@@ -777,9 +777,9 @@ footer ul {
 }
 
 footer a {
-  color: #24D000;
-  -webkit-text-decoration-color: #2E5077;
-          text-decoration-color: #2E5077;
+  color: #0f100e;
+  -webkit-text-decoration-color: #ff50cf;
+          text-decoration-color: #ff50cf;
   font-weight: bold;
 }
 
