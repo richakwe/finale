@@ -967,55 +967,6 @@ footer p:last-child {
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
   margin-bottom: .5rem;
 }
-/******************* Tours *******************/
-.tours {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  width: 90%;
-  margin: 0 auto;
-}
-
-.tours h2 {
-  text-align: center;
-  -webkit-text-decoration: underline #24D000;
-          text-decoration: underline #24D000;
-  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
-  margin-bottom: .5rem;
-}
-
-.tours div {
-  border: 1px solid #24D000;
-  border-radius: .5rem;
-  padding: .5rem;
-  margin-bottom: .5rem;
-}
-
-.tours div h3 {
-  text-align: center;
-}
-
-.tours div img[data-src] {
-  -webkit-filter: blur(0.5em);
-          filter: blur(0.5em);
-  border-radius: .5rem;
-}
-
-.tours div img {
-  -webkit-filter: blur(0em);
-          filter: blur(0em);
-  -webkit-transition: -webkit-filter .6s;
-  transition: -webkit-filter .6s;
-  transition: filter .6s;
-  transition: filter .6s, -webkit-filter .6s;
-  z-index: -1;
-  width: 100%;
-  border-radius: .5rem;
-}
 
 /******************* Contact *******************/
 .contact-us {
