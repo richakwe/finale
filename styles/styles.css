@@ -950,6 +950,22 @@ footer p:last-child {
   margin-bottom: .5rem;
 }
 
+.details {
+  text-align: center;
+  border: solid 1px #24D000;
+  border-radius: .5rem;
+  margin: 2rem 1rem;
+  padding: 1rem;
+  -webkit-box-shadow: 3px 3px 3px #888;
+          box-shadow: 3px 3px 3px #888;
+}
+
+.details h2 {
+  -webkit-text-decoration: underline #ff50c5;
+          text-decoration: underline #ff50c5;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  margin-bottom: .5rem;
+}
 /******************* Tours *******************/
 .tours {
   display: -webkit-box;
